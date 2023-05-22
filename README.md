@@ -1,4 +1,4 @@
 # my Tech App
 
 
-code is only accesed by the owner 
+code is only accessed by the owner 
