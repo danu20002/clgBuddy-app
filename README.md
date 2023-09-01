@@ -1,4 +1,5 @@
 #ClgBuddy APP
+
 Welcome to the CLG BUDDY App! This app is designed to facilitate seamless peer communication, efficient note-taking, and real-time notifications for ongoing activities, all while prioritizing the highest level of user data security. Whether you're a student looking to connect with classmates or manage your study materials, this app has got you covered.
 
 Features
